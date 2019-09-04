@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: micronaut.jcache.hazelcast
+---
+testFramework: spock
+sourceLanguage: groovy
